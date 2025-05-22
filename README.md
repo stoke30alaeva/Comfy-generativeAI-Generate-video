@@ -34,9 +34,22 @@ Generate stunning portraits, interiors, objects, and surreal compositions using 
 
 ---
 
-## 🚀 Installation
+## 🧩 Plugins & Models
+	•	Import custom .ckpt, .safetensors, or .pt diffusion models.
+	•	Extend nodes with custom logic using Python.
+	•	Compatible with ComfyUI workflows (via import/export).
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/comfygen.git
-   cd comfygen
+---
+
+## 📂 File Output
+	•	All generated images are saved in /outputs/.
+	•	Includes prompt metadata and seed values.
+	•	Optional autosave and versioning enabled.
+ 
+ ---
+ 
+## 🛠️ System Requirements
+	•	OS: Windows 10/11, macOS 12+, or Linux.
+	•	GPU: NVIDIA (6GB+ VRAM) recommended.
+	•	Python: 3.10+.
+	•	Storage: ~10GB for models and outputs.
