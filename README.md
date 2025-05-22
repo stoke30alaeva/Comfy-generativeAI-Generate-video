@@ -1,3 +1,6 @@
+
+<img width="1100" alt="Снимок экрана 2025-05-22 в 23 43 27" src="https://github.com/user-attachments/assets/25e7ffdf-531a-462e-bdac-5a7fabc72dc4" />
+
 # 🧠 ComfyGen — AI Scene & Image Generator
 
 **ComfyGen** is a modular, AI-powered image and scene generator inspired by ComfyUI — built for creators, designers, and developers who want full control over AI-generated visuals.
@@ -35,21 +38,29 @@ Generate stunning portraits, interiors, objects, and surreal compositions using 
 ---
 
 ## 🧩 Plugins & Models
-	•	Import custom .ckpt, .safetensors, or .pt diffusion models.
-	•	Extend nodes with custom logic using Python.
-	•	Compatible with ComfyUI workflows (via import/export).
+- Import custom .ckpt, .safetensors, or .pt diffusion models.
+- Extend nodes with custom logic using Python.
+- Compatible with ComfyUI workflows (via import/export).
+  
+
+
+https://github.com/user-attachments/assets/38fced5c-7511-40b3-9a00-1563736e0f2f
+
 
 ---
 
 ## 📂 File Output
-	•	All generated images are saved in /outputs/.
-	•	Includes prompt metadata and seed values.
-	•	Optional autosave and versioning enabled.
+- All generated images are saved in /outputs/.
+- Includes prompt metadata and seed values.
+- Optional autosave and versioning enabled.
  
  ---
  
 ## 🛠️ System Requirements
-	•	OS: Windows 10/11, macOS 12+, or Linux.
-	•	GPU: NVIDIA (6GB+ VRAM) recommended.
-	•	Python: 3.10+.
-	•	Storage: ~10GB for models and outputs.
+- OS: Windows 10/11, macOS 12+, or Linux.
+- GPU: NVIDIA (6GB+ VRAM) recommended.
+- Python: 3.10+.
+- Storage: ~10GB for models and outputs.
+
+## 📄 License
+Comfy is released under the MIT License — free to use, modify, and distribute.
