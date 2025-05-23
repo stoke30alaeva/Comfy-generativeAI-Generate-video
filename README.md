@@ -1,7 +1,7 @@
 
 <img width="1100" alt="Снимок экрана 2025-05-22 в 23 43 27" src="https://github.com/user-attachments/assets/25e7ffdf-531a-462e-bdac-5a7fabc72dc4" />
 
-# 🧠 ComfyGen — AI Scene & Image Generator
+# 🧠 ComfyGen — Fully Unlocked AI Scene & Image Generator
 
 **ComfyGen** is a modular, AI-powered image and scene generator inspired by ComfyUI — built for creators, designers, and developers who want full control over AI-generated visuals.
 
